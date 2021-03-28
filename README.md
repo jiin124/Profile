@@ -1,18 +1,18 @@
 # Profile
 안녕하세요. 눈으로 보이는 모든 것에 관심이 많은 사람 박지인입니다. 
 
-# introduce🌱
+## introduce🌱
 
 - 2017~2019 일산대진고등학교 SW 중점 과정
 - 2020~ 세종대학교 데이터사이언스학과 
 - 2021~ SAI (Sejong Artificial Intelligence) 
 
-# Study now
+## Study now 📚
 
 - JS/Html/CSS/Machine Learning/C/Python/기획,UX/포토샵/R/데이터분석
 
 
-# Interest👀
+## Interest👀
 
 - 데이터분석
 - Machine Learning
@@ -20,7 +20,7 @@
 - 디자인 (UI, 리빙디자인 등 겉으로 보이는 아름답고, 실용적인 것을 좋아해요)
 - 웹 프로그래밍
 
-# Detail✨
+## Detail✨
 
 - ESFJ
 
