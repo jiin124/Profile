@@ -7,6 +7,11 @@
 - 2020~ 세종대학교 데이터사이언스학과 
 - 2021~ SAI (Sejong Artificial Intelligence) 
 
+# Study now
+
+- JS/Html/CSS/Machine Learning/C/Python/기획,UX/포토샵/R/데이터분석
+
+
 # Interest👀
 
 - 데이터분석
