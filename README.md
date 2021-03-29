@@ -7,7 +7,8 @@
 ## introduce🌱
 
 - 2017~2019 일산대진고등학교 SW 중점 과정
-- 2020~ 세종대학교 데이터사이언스학과 
+- 2020~ 세종대학교 데이터사이언스학과
+- 2021~ 연계전공 비지니스 애널리틱스 BA 
 - 2021~ SAI (Sejong Artificial Intelligence) 
 
 ## Study now 📚
