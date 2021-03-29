@@ -13,7 +13,7 @@
 ## Study now 📚
 
 - JS/Html/CSS/Machine Learning/C/Python/기획,UX/포토샵/R/데이터분석
-- <img src="http://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/> <img src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python"/> <img src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript"/> <img src="http://img.shields.io/badge/-HTML5-ff7c54?style=flat&logo=HTML5"/> <img src="http://img.shields.io/badge/-CSS3-c800ff?style=flat&logo=CSS3"/> <img src="http://img.shields.io/badge/-R-276DC3?style=flat&logo=R"/> <img src="http://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat&logo=adobephotoshop"/>
+- <img src="http://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/> <img src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python"/> <img src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript"/> <img src="http://img.shields.io/badge/-HTML5-ff7c54?style=flat&logo=HTML5"/> <img src="http://img.shields.io/badge/-CSS3-c800ff?style=flat&logo=CSS3"/> <img src="http://img.shields.io/badge/-R-276DC3?style=flat&logo=R"/> <img src="http://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat&logo=adobephotoshop"/> <img src="http://img.shields.io/badge/-Machine Learning-ffc1bd?style=flat&logo=ML"/>
 
 
 
