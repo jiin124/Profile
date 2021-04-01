@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiin124&count_bg=%23BD00FF&title_bg=%23BFB0FF&icon=&icon_color=%23B700FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Profile
-안녕하세요. 눈으로 보이는 모든 것에 관심이 많은 사람 박지인입니다. 
+안녕하세요. 박지인입니다. 
 
 
 ## introduce🌱
