@@ -6,14 +6,14 @@
 
 ## introduce🌱
 
-- 2017~2019 일산대진고등학교 SW 중점 과정
 - 2020~ 세종대학교 데이터사이언스학과
 - 2021~ 연계전공 비지니스 애널리틱스 BA 
-- 2021~ SAI (Sejong Artificial Intelligence) 
+- 2021~ SAI (Sejong Artificial Intelligence)
+- 2021~ SAI (Sejong Artificial Intelligence) 4기 운영진 
 
 ## Study now 📚
 
-- JS/Html/CSS/Machine Learning/C/Python/기획,UX/포토샵/R/데이터분석
+- Machine Learning/C/Python/기획,UX/R/데이터분석
 - <img src="http://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/> <img src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python"/> <img src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript"/> <img src="http://img.shields.io/badge/-HTML5-ff7c54?style=flat&logo=HTML5"/> <img src="http://img.shields.io/badge/-CSS3-c800ff?style=flat&logo=CSS3"/> <img src="http://img.shields.io/badge/-R-276DC3?style=flat&logo=R"/> <img src="http://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat&logo=adobephotoshop"/> <img src="http://img.shields.io/badge/-Machine Learning-ffc1bd?style=flat&logo=ML"/>
 
 
@@ -23,6 +23,7 @@
 - 데이터분석
 - Machine Learning
 - 기획과 마케팅
+- coffee
 
 
 
