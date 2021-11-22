@@ -7,7 +7,8 @@
 ## introduce🌱
 
 - 2020~ 세종대학교 데이터사이언스학과
-- 2021~ 연계전공 비지니스 애널리틱스 BA 
+- 2021~ 연계전공 비지니스 애널리틱스 BA
+- 2021.07 힙서비 챌린지 4기
 - 2021~ SAI (Sejong Artificial Intelligence)
 - 2021~ SAI (Sejong Artificial Intelligence) 4기 운영진 
 
