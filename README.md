@@ -1,7 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiin124&count_bg=%23BD00FF&title_bg=%23BFB0FF&icon=&icon_color=%23B700FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Profile
-안녕하세요. 박지인입니다. 
+박지인
+
 
 
 ## introduce🌱
@@ -10,6 +11,9 @@
 - 2021~ 연계전공 비지니스 애널리틱스 BA
 - 2021.07 힙서비 챌린지
 - 2021.03.15~2021.04.11 언더패스 5기
+- 2021.06.22~-2021.07.10 : 하계집중이수제 전동킥보드 사용 실태 시각화 및 데이터 수집
+- 2021.12.20~2022.01.10 : 동계집중이수제 네트워크 이상탐지를 위한 트리기반 모델과 오토인코더 기반 모델의 비교 연구
+- 2022.01.14 : 한국 통신 학회 논문제출
 - 2021~ SAI (Sejong Artificial Intelligence)
 - 2021~ SAI (Sejong Artificial Intelligence) 4기 운영진 
 
@@ -21,10 +25,12 @@
 
 ## Interest👀
 
-- 데이터분석
-- Machine Learning
-- 기획과 마케팅
+- Data Analysis
+- Machine learning
+- Marketing
 - coffee
+- UI/UX
+-
 
 
 
