@@ -17,23 +17,26 @@
 - 2021~ SAI (Sejong Artificial Intelligence)
 - 2021~ SAI (Sejong Artificial Intelligence) 4기 운영진
 - 2022.01 : 동계 한국 통신 학회 학부논문상
+- 2022.07.04 : IMLL 학부연구생
 - 2022.09 : SJU 두런두런 프로젝트
 
 
 ## Study now 📚
 
-- Machine Learning/C/Python/기획,UX/R/데이터분석
+- Machine Learning/Python/기/UX/UI/데이터분석/데이터 시각화/Tableau/NLP/Sentiment analysis
 
 
 
 ## Interest👀
 
 - Data Analysis
-- Machine learning
+- Machine Learning
 - Marketing
 - coffee
 - UI/UX
--
+- Data visualization
+- NLP
+
 
 
 
